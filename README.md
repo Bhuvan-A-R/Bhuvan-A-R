@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Bhuvan-A-R
+- I'm Currently Studing Aritifical Intelligence & Machine Learning @ Global Aacdemy Of Technology, Bengaluru
 - 👀 I’m interested in Reading Books
 - 🌱 I’m currently learning React.JS , Next.JS & BackEnd.
 - 💞️ I’m looking to collaborate on Forntend Developer
